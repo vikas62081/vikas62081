@@ -1,10 +1,6 @@
 # Hello, I'm Vikas Kumar Vishwakarma 👋
 ## Full Stack Developer | Code and Design Enthusiast
-
-- **Email:** vikas62081@gmail.com
-- **Phone:** +91 6205280071
-- **Location:** Bengaluru
-- **GitHub:** [github.com/vikas62081](https://github.com/vikas62081)
+**Email:** vikas62081@gmail.com   |   **Phone:** +91 6205280071   |   **Location:** Bengaluru   |   **GitHub:** [github.com/vikas62081](https://github.com/vikas62081)
 
 ### WORK EXPERIENCE
 

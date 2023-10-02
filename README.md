@@ -11,12 +11,20 @@
 **Full Stack Developer**  
 *Yubi (Formerly CredAvenue)*  
 *March 2022 - Present*  
-- **Achievements/Tasks:** (Add your achievements and tasks here)
+*Bengaluru, India*
+- **Achievements:**
+  - **Frontend and Backend Development:** Over 5 years of experience in both frontend. Proficient in creating user-friendly frontend interfaces while collaborating closely with designers, and adept at building robust backend systems using Spring Boot and integrating event-driven architectures with Kafka.
+  - **Full Stack Development:** Skilled in full-stack development, capable of taking a project from concept to completion. Able to work on both client-side and server-side development, resulting in a comprehensive understanding of the development lifecycle.
+  - **Collaboration and Teamwork:** Adept at collaborating with cross-functional teams, including designers and other developers. Strong communication skills and the ability to work collaboratively to deliver high-quality software solutions on time.
 
 **Full Stack Developer**  
 *Virtusa Corporation*  
 *June 2019 - March 2022*  
-- **Location:** Chennai, India
+*Chennai, India*
+  - **Achievements:**
+    - **Full Stack Development:** Proficient in full-stack development, with extensive experience in JavaScript Frameworks like Node.js and React.js for frontend development. Skilled in building web pages using HTML5, CSS/CSS3, SASS, JavaScript, React JS, and Redux. Specialized in creating responsive Single Page Applications (SPAs) that seamlessly integrate with Java-based REST APIs using Spring Boot.
+    - **Tools and Testing:** Well-versed in version control tools like GIT and Team Forge. Demonstrated ability in conducting unit testing for React JS frontend code using Jest and Enzyme, ensuring code quality and reliability.
+
 
 ### SKILLS
 

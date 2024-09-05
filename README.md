@@ -55,3 +55,4 @@ Anna University
 
 - President of Student Council (2017-2018)
 - Recipient of Anna University Scholarship (2017)
+- Successfully manage and run a [YouTube channel](https://www.youtube.com/codenemy), consistently producing educational content on software development, React, JavaScript and others topics, reaching over **6.5k+** subscribers and **1.5M** views.
